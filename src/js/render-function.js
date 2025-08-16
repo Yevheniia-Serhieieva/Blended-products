@@ -21,3 +21,5 @@ export function renderModalProduct({thumbnail, title, tags, description, shippin
 
 
 
+
+
